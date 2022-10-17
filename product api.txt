@@ -1,0 +1,31 @@
+product
+--------
+
+link > http://localhost:3000/api/v1/products
+
+{
+    "name":"suiiiii" ,
+    "description":"hala" ,
+    "richDescription": "hala",
+    "image": "hala.jpg",
+    "brand": "hala",
+    "price": 5000,
+    "category": "62a06592b3e6485e56521223",
+    "countInStock": 4,
+    "raiting": 10,
+    "numReviews": 44,
+    "isFeatured": true
+}
+
+
+-----------------------------------------------------------------------------
+category
+--------
+
+link > http://localhost:3000/api/v1/categories
+
+{
+    "name": "hanaa"    
+}
+
+-----------------------------------------------------------------------------
